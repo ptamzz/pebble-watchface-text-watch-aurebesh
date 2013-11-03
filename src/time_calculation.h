@@ -1,15 +1,15 @@
 #include "math.h"
 
 static const char* const HOURS[] = {
-  "one", "two", "three", "four", "five", "six", "seven", "heigh", "nine", "ten", "eleven", "twelve"
+  "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten", "eleven", "twelve"
 };
 static const char* const MINUTES[] = {
-  "one", "two", "three", "four", "five", "six", "seven", "heigh", "nine",
+  "one", "two", "three", "four", "five", "six", "seven", "eight", "nine",
   "ten", "elven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen", "seventeen", "enighteen", "nineteen",
-  "twenty", "twenty\none", "twenty\ntwo", "twenty\nthree", "twenty\nfour", "twenty\nfive", "twenty\nsix", "twenty\nseven", "twenty\nheigh", "twenty\nnine",
-  "thirty", "thirty\none", "thirty\ntwo", "thirty\nthree", "thirty\nfour", "thirty\nfive", "thirty\nsix", "thirty\nseven", "thirty\nheigh", "thirty\nnine",
-  "fourty", "fourty\none", "fourty\ntwo", "fourty\nthree", "fourty\nfour", "fourty\nfive", "fourty\nsix", "fourty\nseven", "fourty\nheigh", "fourty\nnine",
-  "fifty", "fifty\none", "fifty\ntwo", "fifty\nthree", "fifty\nfour", "fifty\nfive", "fifty\nsix", "fifty\nseven", "fifty\nheigh", "fifty\nnine",
+  "twenty", "twenty\none", "twenty\ntwo", "twenty\nthree", "twenty\nfour", "twenty\nfive", "twenty\nsix", "twenty\nseven", "twenty\neight", "twenty\nnine",
+  "thirty", "thirty\none", "thirty\ntwo", "thirty\nthree", "thirty\nfour", "thirty\nfive", "thirty\nsix", "thirty\nseven", "thirty\neight", "thirty\nnine",
+  "fourty", "fourty\none", "fourty\ntwo", "fourty\nthree", "fourty\nfour", "fourty\nfive", "fourty\nsix", "fourty\nseven", "fourty\neight", "fourty\nnine",
+  "fifty", "fifty\none", "fifty\ntwo", "fifty\nthree", "fifty\nfour", "fifty\nfive", "fifty\nsix", "fifty\nseven", "fifty\neight", "fifty\nnine",
 };
 
 const char* get_hours_string(int hours)
