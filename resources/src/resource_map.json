@@ -1,0 +1,16 @@
+
+{"friendlyVersion": "1.0",
+ "versionDefName": "RESOURCES_AUREBESH_TEXT_WATCH",
+ "media": [
+	   {
+	    "type":"font",
+	    "defName":"FONT_AUREBESH_BOLD_27",
+	    "file":"fonts/Aurebesh_Bold.ttf"
+	   },
+     {
+	    "type":"font",
+	    "defName":"FONT_AUREBESH_27",
+	    "file":"fonts/Aurebesh.ttf"
+	   }
+	  ]
+}
