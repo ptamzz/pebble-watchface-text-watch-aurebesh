@@ -7,7 +7,7 @@
 #define MY_UUID { 0xD3, 0x53, 0x12, 0x05, 0x0F, 0x86, 0x4C, 0x83, 0xB2, 0x34, 0xA7, 0x73, 0x4E, 0x78, 0xB9, 0x70 }
 PBL_APP_INFO(MY_UUID,
              "Aurebesh Text Watch", "chadrien",
-             1, 1, /* App version */
+             1, 2, /* App version */
              DEFAULT_MENU_ICON,
              APP_INFO_WATCH_FACE);
 
