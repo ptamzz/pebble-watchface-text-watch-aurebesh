@@ -5,7 +5,7 @@ static const char* const HOURS[] = {
 };
 static const char* const MINUTES[] = {
   "one", "two", "three", "four", "five", "six", "seven", "eight", "nine",
-  "ten", "elven", "twelve", "thir\nteen", "four\nteen", "fif\nteen", "six\nteen", "seven\nteen", "enigh\nteen", "nine\nteen",
+  "ten", "elven", "twelve", "thir\nteen", "four\nteen", "fif\nteen", "six\nteen", "seven\nteen", "eigh\nteen", "nine\nteen",
   "twenty", "twenty\none", "twenty\ntwo", "twenty\nthree", "twenty\nfour", "twenty\nfive", "twenty\nsix", "twenty\nseven", "twenty\neight", "twenty\nnine",
   "thirty", "thirty\none", "thirty\ntwo", "thirty\nthree", "thirty\nfour", "thirty\nfive", "thirty\nsix", "thirty\nseven", "thirty\neight", "thirty\nnine",
   "fourty", "fourty\none", "fourty\ntwo", "fourty\nthree", "fourty\nfour", "fourty\nfive", "fourty\nsix", "fourty\nseven", "fourty\neight", "fourty\nnine",
